@@ -81,7 +81,7 @@
     display: inline-block;
     vertical-align: middle;
     height: 210px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #shareteamimg {
@@ -112,7 +112,7 @@
     display: inline-block;
     vertical-align: middle;
     height: 210px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #deliver-img {
@@ -168,20 +168,21 @@
     width: 100%;
     background: #53389E;
     border-radius: 24px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 #give-main-div {
     padding: 64px;
     display: inline-block;
     vertical-align: middle;
-    max-width: 736px;
+    max-width: 731px;
+    width: 100%;
 }
 
 #give-upper-div {
     max-width: 608px;
     width: 100%;
-    display: inline-block;
+    /* display: inline-block; */
 
 }
 
@@ -227,8 +228,9 @@
 #lastimage {
     display: inline-block;
     vertical-align: middle;
-    max-width: 480px;
+    max-width: px;
     height: 400px;
+    text-align: right;
 
 }
 
