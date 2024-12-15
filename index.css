@@ -1,0 +1,234 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#wholepage {
+    background: #E8EEFF;
+    max-width: 1920px;
+    padding: 108px 157.063px 108.662px 157px;
+    background: #FFF;
+    width: 100%;
+}
+
+#middlecontainer {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;  
+    background: #E8EEFF;
+
+}
+
+#header {
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#Beautiful {
+    color: #181D27;
+    font-size: 72px;
+    max-width: 864px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#Beautiful b {
+    color: #05F;
+}
+
+#Beautiful u {
+    color: #6941C6;
+    text-decoration-line: underline;
+}
+
+#Powerful {
+    max-width: 768px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+#mainimagediv {
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+#mainphoto {
+    border: 2px soli white;
+    border-radius: 16px;    
+}
+
+#cardsdiv {
+    max-width: 1412px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+/* first card */
+
+
+#shareteamcard {
+    max-width: 450px;
+    text-align: center;
+    padding: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 210px;
+    margin-right: 20px;
+}
+
+#shareteamimg {
+    margin-bottom: 20px;
+}
+
+#shareteam-p {
+    margin-bottom: 8px;
+    color: #181D27;
+    font-size: 20px;    
+}
+
+#shareteam-text {
+    margin-bottom: 20px;
+    color: #535862;
+    font-size: 16px;
+}
+
+/* second card */
+
+#deliver-card {
+    max-width: 450px;
+    text-align: center;
+    padding: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 210px;
+    margin-right: 20px;
+}
+
+#deliver-img {
+    margin-bottom: 20px;
+}
+
+#deliver-p {
+    margin-bottom: 8px;
+    color: #181D27;
+    font-size: 20px;    
+}
+
+#sdeliver-text {
+    margin-bottom: 20px;
+    color: #535862;
+    font-size: 16px;
+}
+
+/* second card */
+
+#reports-card {
+    max-width: 450px;
+    text-align: center;
+    padding: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 210px;
+    
+}
+
+#reportsimg {
+    margin-bottom: 20px;
+}
+
+#reports-p {
+    margin-bottom: 8px;
+    color: #181D27;
+    font-size: 20px;    
+}
+
+#reports-text {
+    margin-bottom: 20px;
+    color: #535862;
+    font-size: 16px;
+}
+
+
+#lastdiv {
+    max-width: 1216px;
+    width: 100%;
+    background: #53389E;
+    border-radius: 24px;
+    margin: 0 auto;
+}
+
+#give-main-div {
+    padding: 64px;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 736px;
+}
+
+#give-upper-div {
+    max-width: 608px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+#give-p {
+    color: #FFF;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#join-p {
+    color: #E9D7FE;
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+
+#button-div {
+    max-width: 269px;
+}
+
+#learnmore {
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    padding: 18px;
+    text-align: center;
+    border-radius: 8px;
+    margin-right: 12px;
+    font-size: 16px;
+    height: 48px;
+    vertical-align: middle;
+}
+
+#Getstarted {
+    padding: 12px 18px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 16px;
+    height: 48px;
+    vertical-align: middle;
+}
+
+#lastimage {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 480px;
+    height: 400px;
+
+}
+
